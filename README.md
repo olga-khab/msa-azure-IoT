@@ -8,3 +8,4 @@
 
 ### Sample Power BI report
 
+![Power BI report snapshot](report_img.png)
