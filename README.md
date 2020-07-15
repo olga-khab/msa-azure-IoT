@@ -2,9 +2,9 @@
 
 ## Installations
 
-### Client library for the Google Maps API
+### The Azure IoT Device SDK - provides functionality for communicating with the Azure IoT Hub
 
-`pip install -U googlemaps`
+`pip install azure-iot-device`
 
 ### Sample Power BI report
 
